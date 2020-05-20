@@ -18,4 +18,4 @@ spider
 ####未破解
 . 抖音app
 . 快手app
-. 拼多度app
+. 拼多多app
